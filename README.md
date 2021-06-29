@@ -1,4 +1,4 @@
-# picker
+# popup-picker
 [![npm](https://img.shields.io/npm/v/better-picker.svg?style=flat-square)](https://www.npmjs.com/package/@shaodong/popup-picker)
 
 移动端最好用的的筛选器组件，高仿 ios 的 UIPickerView ，非常流畅的体验。
@@ -6,6 +6,11 @@
 ## Fetures
 - 支持单列、多列选择
 - 支持动态更新每列的数据
+- 支持无数据展示
+- 支持滑动列时禁止选择确认
+
+## 效果图
+![image](/snapshots/popup-picker.png)
 
 ## 如何使用
 
